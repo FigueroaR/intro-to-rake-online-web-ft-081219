@@ -3,6 +3,6 @@ task :hello do
   puts "hello from Rake!"
 end
 
-task :hold do 
+task :hola do 
   puts "hole de Rake!"
 end 
