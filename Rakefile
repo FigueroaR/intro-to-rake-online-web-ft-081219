@@ -4,5 +4,5 @@ task :hello do
 end
 
 task :hola do 
-  puts "hole de Rake!"
+  puts "hola de Rake!"
 end 
